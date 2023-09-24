@@ -23,7 +23,7 @@ if(isset($_POST["submit"])){
   $foldername = "images/";
   $destination = $foldername. $filename;
   $foldernametemp =$_FILES['file']['tmp_name'];
-  // echo $foldernametemp;
+  // echo $foldernametemp; 
   // echo $filename;
 
   $insert = "INSERT INTO file_table(file)
