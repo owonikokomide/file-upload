@@ -14,7 +14,6 @@
   </form>
 </body>
 </html>
-
 <?php include('config.php'); ?>
 
 <?php
