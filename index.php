@@ -8,7 +8,7 @@
   <title>Document</title>
 </head>
 <body>
-  <form action="" method="POST" enctype="multipart/form-data">
+  <form action="" method="POST" enctype="multipart/form-data"> 
     <input type="file" name="file" placeholder="choose file" multiple><br>
     <input type="submit" name="submit">
   </form>
