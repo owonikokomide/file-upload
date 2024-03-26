@@ -10,7 +10,7 @@ if($connection){
   // echo "connected";
 }
 else{
-  die("not connected").mysqli_connect_erron;
+  die("not connected").mysqli_connect_error;
 }
 ?>
  
