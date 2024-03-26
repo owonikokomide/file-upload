@@ -9,7 +9,7 @@
 <body>
   <form action="" method="POST" enctype="multipart/form-data"> 
     <input type="file" name="file" placeholder="choose file" multiple><br>
-    <input type="submit" name="submit">
+    <input type="submit" name="submit"> 
   </form>
 </body>
 </html>
